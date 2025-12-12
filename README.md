@@ -11,7 +11,7 @@ This repository contains two complementary notebooks for space debris risk analy
 
 ## Notebooks
 
-### 1. `CDM_AI_BrainStorm.ipynb` - Exploratory Analysis
+### 1. `Understanding_Aldoria_CDM_Dataset.ipynb` - Exploratory Analysis
 **Purpose:** Comprehensive exploration of space traffic patterns and operational risks
 
 **Key Features:**
