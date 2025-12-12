@@ -27,4 +27,8 @@ This dataset is suitable for:
 * Analyzing the frequency and distribution of high-risk conjunction events.
 * Validating collision probability algorithms.
 
+  *READ ABOUT METADATA OF CCSDS HERE**
+https://github.com/siudro/Robust-Probability-of-Collision-for-Space-Operations/blob/main/CDM%20-%20metadata.pdf
+
+
 
