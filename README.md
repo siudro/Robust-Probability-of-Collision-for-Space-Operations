@@ -20,7 +20,7 @@ Download the dataset and place the CSV file in the repository root before runnin
 
 ## Notebooks
 
-### 1. `Understanding_Aldoria_CDM_Dataset.ipynb` – Exploratory Analysis
+### 1. [`Understanding_Aldoria_CDM_Dataset.ipynb`](https://github.com/siudro/Robust-Probability-of-Collision-for-Space-Operations/blob/main/Understanding_Aldoria_CDM_Dataset.ipynb) – Exploratory Analysis
 
 **Purpose:** Comprehensive exploration of space traffic patterns and operational risks using CDM-only inputs.
 
@@ -38,7 +38,7 @@ Download the dataset and place the CSV file in the repository root before runnin
 
 ---
 
-### 2. `debrisolver_hybrid_pc_main.ipynb` – Hybrid Analytic–Monte Carlo Validation
+### 2. [`debrisolver_hybrid_pc_main-2.ipynb`](https://github.com/siudro/Robust-Probability-of-Collision-for-Space-Operations/blob/main/debrisolver_hybrid_pc_main-2.ipynb) – Hybrid Analytic–Monte Carlo Validation
 
 **Purpose:** Validate catalog analytic collision probabilities using encounter-plane geometry and targeted Monte Carlo simulation.
 
